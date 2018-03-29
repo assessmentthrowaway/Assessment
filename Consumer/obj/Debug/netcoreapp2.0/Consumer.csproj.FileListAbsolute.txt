@@ -1,0 +1,14 @@
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Consumer.deps.json
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.json
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Consumer.dll
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfo.cs
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Consumer.pdb
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CopyComplete
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.dll
+C:\Users\Claudio Steppe\Source\Repos\Wonga.Assessment\Consumer\obj\Debug\netcoreapp2.0\Consumer.pdb
